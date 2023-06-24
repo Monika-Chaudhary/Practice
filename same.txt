@@ -1,4 +1,9 @@
 Remote
+<<<<<<< Upstream, based on origin/main
 Remote
 Remotelly
 Locally
+=======
+Locally
+Locally
+>>>>>>> 427cc07 Local
